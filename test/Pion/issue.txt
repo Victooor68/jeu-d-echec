@@ -1,0 +1,1 @@
+pion can't move diagonal to eat a piece
